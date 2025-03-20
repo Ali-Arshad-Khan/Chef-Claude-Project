@@ -2,7 +2,7 @@
 
 Chef Claude is an AI-powered recipe assistant that suggests dishes based on the ingredients you have. It uses Hugging Face's Mistral model for smart recipe recommendations and is built with React, Vite, and Netlify Functions for secure API handling.  
 
-🚀 **Live Demo:** [https://chef-claude-project.netlify.app/](#)  
+🚀 **Live Demo:** [https://chef-claude-project.netlify.app/] 
 
 ## 🔥 Features  
 ✅ Enter available ingredients and get AI-generated recipes  
