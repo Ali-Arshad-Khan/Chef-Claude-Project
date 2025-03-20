@@ -1,8 +1,5 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+=======
+# Chef-Claude-Project
+Chef Claude is an AI-powered recipe assistant that suggests dishes based on available ingredients. Built with React, Vite, and Hugging Face's Mistral model, it uses Netlify Functions for secure API handling. Live at: [https://chef-claude-project.netlify.app/]
+>>>>>>> ee63ed3a6b571cd833a0a38423f8a49e0a7b6f3a
